@@ -1,20 +1,76 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "price": 2500,
-            "category": "venda",
-            "createdAt": "2023-06-27T17:36:29.435Z"
-        },
-        {
-            "id": 2,
-            "description": "hamburguer",
-            "type": "outcome",
-            "price": 40,
-            "category": "alimentação",
-            "createdAt": "2023-06-27T17:34:29.435Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "price": 2500,
+      "category": "venda",
+      "createdAt": "2023-06-27T17:36:29.435Z"
+    },
+    {
+      "id": 2,
+      "description": "hamburguer",
+      "type": "outcome",
+      "price": 40,
+      "category": "alimentação",
+      "createdAt": "2023-06-27T17:34:29.435Z"
+    },
+    {
+      "id": 3,
+      "description": "jogos de cassino",
+      "type": "outcome",
+      "price": 10,
+      "category": "jogos",
+      "createdAt": "2023-06-27T17:14:29.435Z"
+    },
+    {
+      "description": "criação de app",
+      "price": 1000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-06-28T15:35:59.990Z",
+      "id": 4
+    },
+    {
+      "description": "werwer",
+      "price": 342,
+      "category": "qwe",
+      "type": "income",
+      "createdAt": "2023-06-28T16:23:48.522Z",
+      "id": 5
+    },
+    {
+      "description": "qwdqwd",
+      "price": 231,
+      "category": "qwe",
+      "type": "income",
+      "createdAt": "2023-06-28T16:30:47.724Z",
+      "id": 6
+    },
+    {
+      "description": "qwdqwd",
+      "price": 231,
+      "category": "qwe",
+      "type": "outcome",
+      "createdAt": "2023-06-28T16:31:17.326Z",
+      "id": 7
+    },
+    {
+      "description": "45y",
+      "price": 345,
+      "category": "456",
+      "type": "outcome",
+      "createdAt": "2023-06-28T16:31:47.635Z",
+      "id": 8
+    },
+    {
+      "description": "rrrrrrrr",
+      "price": 111,
+      "category": "ewe",
+      "type": "outcome",
+      "createdAt": "2023-06-28T16:45:47.009Z",
+      "id": 9
+    }
+  ]
 }
